@@ -1,0 +1,4 @@
+name: McpApiPlugin
+version: 1.0
+main: com.jcpino.McpApiPlugin
+api-version: 1.8
